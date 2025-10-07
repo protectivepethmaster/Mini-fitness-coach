@@ -117,9 +117,8 @@ streamlit run app/main.py
 
 | ชื่อ | บทบาท |
 |------|--------|
-| [ชื่อสมาชิกที่ 1] | Project Manager / CI-CD Integrator |
-| [ชื่อสมาชิกที่ 2] | Core Developer |
-| [ชื่อสมาชิกที่ 3] | Automated Tester & QA |
+| นายภูมิรัฐ สุขเอนกนันท์ | Project Manager / CI-CD Integrator |
+| [ชื่อสมาชิกที่ 2] | Core Developer / Automated Tester |
 
 ---
 
